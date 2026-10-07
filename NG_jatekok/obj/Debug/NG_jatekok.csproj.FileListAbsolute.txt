@@ -1,0 +1,8 @@
+C:\Users\tanulo\Desktop\ng_doga\NG_jatekok\NG_jatekok\bin\Debug\NG_jatekok.exe.config
+C:\Users\tanulo\Desktop\ng_doga\NG_jatekok\NG_jatekok\bin\Debug\NG_jatekok.exe
+C:\Users\tanulo\Desktop\ng_doga\NG_jatekok\NG_jatekok\bin\Debug\NG_jatekok.pdb
+C:\Users\tanulo\Desktop\ng_doga\NG_jatekok\NG_jatekok\obj\Debug\NG_jatekok.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\ng_doga\NG_jatekok\NG_jatekok\obj\Debug\NG_jatekok.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanulo\Desktop\ng_doga\NG_jatekok\NG_jatekok\obj\Debug\NG_jatekok.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\ng_doga\NG_jatekok\NG_jatekok\obj\Debug\NG_jatekok.exe
+C:\Users\tanulo\Desktop\ng_doga\NG_jatekok\NG_jatekok\obj\Debug\NG_jatekok.pdb
